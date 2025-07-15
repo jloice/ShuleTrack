@@ -1,8 +1,67 @@
-# 📚 ShuleTrack – Smarter Data for Stronger Schools
+# 📘 ShuleTrack
 
-**ShuleTrack** is a mobile and web platform that empowers national and local education stakeholders with real-time school-level data on infrastructure, teacher-student ratios, and student populations. It is designed to support **data-driven decision-making** for education planning and resource allocation—especially in underserved communities.
+**ShuleTrack** is a mobile and web-based platform that helps track the quality of education by collecting data on school infrastructure, teacher-student ratios, and student population. The goal is to support data-driven planning, resource allocation, and SDG 4 (Quality Education).
 
-...
+---
 
-> *“You can't improve what you can't measure. Let's make education data visible, accurate, and powerful.”*  
-> — Team ShuleTrack
+## 🚀 Project Overview
+
+- **Purpose:** To improve education infrastructure and planning through smart data.
+- **Users:** Education ministries, NGOs, school inspectors, community-based organizations.
+- **Impact:** Informs national education strategies and closes data gaps.
+
+---
+
+## 🧩 Features
+
+- 📱 Mobile survey app (Flutter)
+- 🖥️ Web dashboard for data visualization (React)
+- 🌍 Map-based reporting of school conditions
+- 📊 Teacher–student ratio tracker
+- 📤 Exportable reports for planning
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend (Mobile):** Flutter
+- **Frontend (Dashboard):** React.js
+- **Backend:** Node.js + Express
+- **Database:** PostgreSQL / Firebase
+- **Maps & Visualization:** Leaflet.js, Chart.js
+
+---
+
+## 📅 Project Phases
+
+- Phase 1: Planning & Design  
+- Phase 2: Backend & Database Setup  
+- Phase 3: Mobile App Development  
+- Phase 4: Web Dashboard Development  
+- Phase 5: Pilot Testing  
+- Phase 6: Deployment & Scaling  
+
+---
+
+## 👥 Contributing
+
+We welcome contributions in:
+- UI/UX design
+- API development
+- Testing
+- Translations (e.g., Swahili)
+
+Read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 📬 Contact
+
+**Project Lead:** [Loice Kipngetich]  
+**Email: kipngetichloice@gmail.com  
